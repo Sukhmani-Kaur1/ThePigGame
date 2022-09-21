@@ -28,6 +28,10 @@ This is a game where you will be rolling a dice until you feel like its a right 
 Insert gif or link to demo
 
 
+## See the Live
+
+[The Pig Game](https://merry-tanuki-592bf5.netlify.app/)
+
 ## Authors
 
 - [@Sukhmani-Kaur1](https://github.com/Sukhmani-Kaur1)
