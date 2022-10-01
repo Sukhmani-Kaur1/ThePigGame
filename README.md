@@ -25,7 +25,7 @@ This is a game where you will be rolling a dice until you feel like its a right 
 
 ## Demo
 
-Insert gif or link to demo
+Insert gif or link to demo--
 
 
 ## See Live
